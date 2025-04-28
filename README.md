@@ -47,8 +47,6 @@ Splitting is done using **stratified sampling** to ensure balanced class distrib
 ## Installation
 
 Clone the repository:
-
-```bash
 git clone https://github.com/your-username/handwritten-digit-recognition-fnn.git
 cd handwritten-digit-recognition-fnn
 Install required packages:
